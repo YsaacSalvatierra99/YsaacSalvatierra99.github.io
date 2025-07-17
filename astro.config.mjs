@@ -6,7 +6,7 @@ import siteConfig from './src/data/site-config';
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'YsaacSalvatierra99.github.io',
+    site: 'https://YsaacSalvatierra99.github.io',
     vite: {
         plugins: [tailwindcss()]
     },
